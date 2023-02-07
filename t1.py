@@ -9,4 +9,3 @@ print(a)
 
 hr = brown.words(categories='humor')
 print(hr)
-
